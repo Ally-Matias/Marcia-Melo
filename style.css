@@ -515,6 +515,10 @@
                 gap: 2rem;
             }
 
+            .hero-content{
+                margin-left: 0px;
+            }
+
             .hero-text{
                 display: flex;
                 justify-content: center;
